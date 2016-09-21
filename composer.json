@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Deer\\MayanCalendar\\": "src"
+            "Deer\\MayanCalendar\\": "src/MayanCalendar"
         }
     }
 }
