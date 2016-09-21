@@ -1,0 +1,25 @@
+{
+    "name": "zrcing/mayan-calendar",
+    "description": "php container",
+    "keywords": ["Container"],
+    "license": "MIT",
+    "homepage": "https://github.com/zrcing/mayan-calendar",
+    "support": {
+        "issues": "https://github.com/zrcing/mayan-calendar/issues",
+        "source": "https://github.com/zrcing/mayan-calendar"
+    },
+    "authors": [
+        {
+            "name": "Gary Liao",
+            "email": "liaogling@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Deer\\MayanCalendar\\": "src"
+        }
+    }
+}
