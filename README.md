@@ -1,1 +1,1 @@
-# mayan-calendar
+# Mayan Calendar

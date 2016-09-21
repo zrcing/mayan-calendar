@@ -1,7 +1,7 @@
 {
     "name": "zrcing/mayan-calendar",
-    "description": "php container",
-    "keywords": ["Container"],
+    "description": "Mayan Calendar",
+    "keywords": ["mayan"],
     "license": "MIT",
     "homepage": "https://github.com/zrcing/mayan-calendar",
     "support": {
